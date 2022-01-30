@@ -26,7 +26,7 @@
 - `enlaces-css.html`
 - `tablas-css.html` (incluye: `tablas-css.css`)
 
-### Web https://desarrolloweb.dlsi.ua.es
+### Web http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios
 - `conceptos-basicos-1.html`
 - `conceptos-basicos-2.html`
 - `enlaces.html`
