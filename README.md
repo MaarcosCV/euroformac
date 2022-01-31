@@ -16,6 +16,7 @@
 - `formulario.html`
 - `formulario2.html`
 - `formulario3.html`
+- `form.html`
 - `enlaces.html`
 - `colores.html`
 - `multimedia.html` (incluye: `big-buck-bunny.png`, `Wildlife.ogg` y `Wildlife.mp3`)
