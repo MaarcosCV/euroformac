@@ -41,3 +41,8 @@
 - `estilo-texto-1.html`
 - `estilo-texto-2.html`
 - `estilo-texto-3-html`
+
+### Recursos
+- [Hojas de estilo en cascada CSS](http://docplayer.es/193100956-Modulo-1-uf1841-hojas-de-estilo-en-cascada-css.html)
+- [Francesc Ricart - Tutorial HTML](https://francescricart.com/tutorial-html)
+- [Francesc Ricart - Tutorial CSS](https://francescricart.com/tutorial-css)
