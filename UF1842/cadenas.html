@@ -61,13 +61,13 @@
         }
 
         function comprobar(s) {
-            nF = 0;
+            n = 0;
             p = lorem.indexOf(s);
             while (p < lon && p != -1) {
-                nF++;
+                n++;
                 p = lorem.indexOf(s, p + 1);
             }
-            return nF;
+            return n;
         }
     </script>
 </body>
