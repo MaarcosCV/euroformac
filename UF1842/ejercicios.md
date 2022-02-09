@@ -1,6 +1,6 @@
 # Ejercicios de JavaScript
 
-## De los 6 siguientes ejercicios, desarrollar 5 de ellos para el martes 22 de febrero. Serán 2 puntos de la nota del examen parcial.
+## De los siguientes ejercicios, desarrollar 5 de ellos para el martes 22 de febrero. Serán 2 puntos de la nota del examen parcial.
 
 1 - `js1` Solicitar nombre y primer apellido en un formulario y mostrar debajo del formulario la frase: **Mi primer apellido es** `apellido` **y mi nombre es** `nombre`. Por ejemplo: *Mi primer apellido es Torres y mi nombre es Antonio José*
 
